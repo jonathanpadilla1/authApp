@@ -72,3 +72,4 @@ export class AuthService {
     localStorage.clear();
   }
 }
+console.log();
